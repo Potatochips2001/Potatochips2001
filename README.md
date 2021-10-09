@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=Potatochips2001&theme=buefy&show_icons=true
+<iframe>https://github-readme-stats.vercel.app/api?username=Potatochips2001&theme=buefy&show_icons=true</iframe>
