@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=Potatochips2001&count_private=true&theme=radical&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api?username=potatochips2001&theme=panda&show_icons=true)
